@@ -19,8 +19,8 @@ A dynamic and user-friendly web application built with React, designed to facili
 
 ## Demo
 
-[Live Demo Link](#react-appointment-booking-website.vercel.app)  
-*(Insert link to your live demo if available)*
+[Live Demo Link](react-appointment-booking-website.vercel.app)  
+
 
 ## Features
 
