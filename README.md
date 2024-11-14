@@ -91,4 +91,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This template gives your project a clear and organized README that users can easily follow. Feel free to adjust any sections as your project evolves!
+
