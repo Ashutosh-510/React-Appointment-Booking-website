@@ -2,7 +2,7 @@
 
 ---
 
-# React Appointment Booking Website
+# Doctor Appointment Booking Website
 
 A dynamic and user-friendly web application built with React, designed to facilitate easy appointment booking. This project provides a seamless experience for users to schedule and manage their appointments, ideal for businesses or professionals looking to streamline their scheduling process.
 
